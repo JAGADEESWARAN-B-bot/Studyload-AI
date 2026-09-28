@@ -1,0 +1,6 @@
+{
+  "name": "StudyLoad AI",
+  "description": "Intelligent study workload prediction, schedule planning, and what-if simulation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
